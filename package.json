@@ -1,0 +1,24 @@
+{
+  "name": "node-one-line-ascii-art-to-pasteboard-on-keypress-generator",
+  "version": "0.0.1",
+  "description": "This program starts a process to listen to your user-defined convoluted keypress in order to copy a one-line japanese ascii art from japaneseemoticons.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator.git"
+  },
+  "keywords": [
+    "[\"keyboard\"",
+    "\"aallbrig\"",
+    "\"usercustomization\"]"
+  ],
+  "author": "Andrew Allbright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator/issues"
+  },
+  "homepage": "https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator#readme"
+}
