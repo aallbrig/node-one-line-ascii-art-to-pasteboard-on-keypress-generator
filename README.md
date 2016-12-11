@@ -16,5 +16,6 @@ This user configuration will be handled in a config file that will work like any
 - Allow users to specify their own categories of one-line ascii art they find while they travel across the net
 
 ### Emoticon Source
-The source of emoticons are
+The source(s) of these emoticons are
+
 1. [Japanese Emoticons](http://japaneseemoticons.me/) (Support if you find this application useful!)
