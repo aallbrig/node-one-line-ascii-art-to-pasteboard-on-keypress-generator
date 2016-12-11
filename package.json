@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator/issues"
   },
-  "homepage": "https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator#readme"
+  "homepage": "https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
 }
