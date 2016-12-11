@@ -12,6 +12,11 @@ The configuration rules can specify a keyboard sequence to either...
 
 This user configuration will be handled in a config file that will work like any
 
+### Development
+1. Clone repo
+1. Already have (or acquire) node, npm
+1. Execute `npm install && npm start`
+
 ### Future Development
 - Allow users to specify their own categories of one-line ascii art they find while they travel across the net
 
