@@ -12,9 +12,9 @@
     "url": "git+https://github.com/aallbrig/node-one-line-ascii-art-to-pasteboard-on-keypress-generator.git"
   },
   "keywords": [
-    "[\"keyboard\"",
-    "\"aallbrig\"",
-    "\"usercustomization\"]"
+    "keyboard",
+    "aallbrig",
+    "usercustomization"
   ],
   "author": "Andrew Allbright",
   "license": "MIT",
